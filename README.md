@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?whitezom7&label=PROFILE+VIEWS)
+
 - 👋 Hi, I’m Taylor Whitewood/ Whitezom.
 - 👀 I’m interested in: Game Development, Roleplaying games, Unreal Engine and Blender
 - My end goal is to be able to create realistic VR Games for PC & Consoles
