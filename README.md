@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=whitezom7&label=PROFILE+VIEWS)
+[![wakatime](https://wakatime.com/badge/user/7d8f866b-02c5-4fe0-8c57-0b42ec7eea79.svg)](https://wakatime.com/@7d8f866b-02c5-4fe0-8c57-0b42ec7eea79)
 
 - Hi, I’m Whitezom.
 - I’m interested in: Game Development, Programming, Roleplaying games.
