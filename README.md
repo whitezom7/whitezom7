@@ -8,6 +8,7 @@
 - Future C# Full Stack Developer.
 - Some of my Favourite Game Genres are: RPGs, FPS and MilSims.
 - How to reach me: VIA [Twitter](https://twitter.com/TaylorWhitewood/) or [Email](mailto:contact@whitewood.dev).
+- View my [Website](https://whitewood.dev).
 
 [![whitezoms's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitezom7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitezom7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
