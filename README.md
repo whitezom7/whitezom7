@@ -4,8 +4,6 @@
 - Hi, I’m Whitezom.
 - I’m interested in: Game/Web Development, Programming, Roleplaying games.
 - My end goal is to be able to create realistic VR Games for PC & Consoles
-- I’m currently learning C# and Unity.
-- Future C# Full Stack Developer.
 - Some of my Favourite Game Genres are: RPGs, FPS and MilSims.
 - How to reach me: VIA [Twitter](https://twitter.com/TaylorWhitewood/) or [Email](mailto:contact@whitewood.dev).
 - View my [Website](https://whitewood.dev).
