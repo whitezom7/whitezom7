@@ -6,7 +6,7 @@
 - Some of my Favourite Game Genres are: RPGs, FPS and MilSims.
 - How to reach me: VIA [Twitter](https://twitter.com/TaylorWhitewood/) or [Email](mailto:contact@whitewood.dev).
 - View my [Website](https://whitezom.dev).
-![tryhackme stats](https://raw.githubusercontent.com/<SET_USERNAME_HERE>/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/whitezom7/<SET_USERNAME_HERE>/master/assets/thm_propic.png)
 [![whitezoms's GitHub stats](https://github-readme-stats.vercel.app/api?username=whitezom7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whitezom7&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
