@@ -10,7 +10,7 @@
  
 ![tryhackme stats](https://raw.githubusercontent.com/whitezom7/whitezom7/master/assets/thm_propic.png)
 -
-[![whitezoms's GitHub stats](https://github-readme-stats-whitezom7.vercel.app/api?username=whitezom7&theme=dark)](https://github.com/whitezom7/Github-readme-stats)
-[![Top Langs](https://github-readme-stats-whitezom7.vercel.app/api/top-langs/?username=whitezom7&theme=dark)](https://github.com/whitezom7/Github-readme-stats)
+[![whitezoms's GitHub stats](https://git-readme-stats-whitezom7.vercel.app/api?username=whitezom7&theme=dark)](https://github.com/whitezom7/Github-readme-stats)
+[![Top Langs](https://git-readme-stats-whitezom7.vercel.app/api/top-langs/?username=whitezom7&theme=dark)](https://github.com/whitezom7/Github-readme-stats)
 
 
