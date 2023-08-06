@@ -4,7 +4,7 @@
 - Hi, I’m Whitezom.
 - I’m interested in: Game/VR Development, Programming, System Administration and Roleplaying games
 - Some of my Favourite Game Genres are: RPGs, FPS and MilSims.
-- How to reach me: VIA [Twitter](https://twitter.com/TaylorWhitewood/) or [Email](mailto:contact@whitewood.dev).
+- How to reach me: VIA [Twitter](https://twitter.com/TaylorWhitewood/) or [Email](mailto:contact@whitezom.dev).
 - View my [Website](https://whitezom.dev).
 
  
