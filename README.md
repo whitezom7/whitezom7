@@ -5,6 +5,7 @@
 - Some of my Favourite Game Genres are: RPGs, FPS and MilSims.
 - How to reach me: VIA [Twitter](https://twitter.com/TaylorWhitewood/) or [Email](mailto:contact@whitezom.dev).
 - View my [Website](https://whitezom.dev).
+- Discord server for Trans peeps :3 https://discord.gg/KAbZkGDgKy
 
  
 ![tryhackme stats](https://raw.githubusercontent.com/whitezom7/whitezom7/master/assets/thm_propic.png)
