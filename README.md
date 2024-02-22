@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and System Admin
 ------------------------------
 
-*   🌍  I'm based in Netherlands
+*   🌍  I'm based in The UK
 *   🖥️  See my portfolio at [whitezom.dev](http://whitezom.dev)
 *   ✉️  You can contact me at [taylor@pursonal.dev](mailto:taylor@pursonal.dev)
 *   🧠  I'm learning Typescript and Java
