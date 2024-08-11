@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Taylor from the UK<br><br>- 🔭 I’m working as an IT Administrator and hopefully soon as a Python Developer <br>- 📚 I'm currently learning Python and Backend Tools<br>- ⚡ In my free time I deal hunt for new tech to add to my collection</p>
+<p align="left">I'm Taylor from the UK<br><br>- 🔭 I’m a student studying Computers and IT and working towards being a C# Developer <br>- 📚 I'm currently learning C# and Backend Tools<br>- ⚡ In my free time I deal hunt for new tech to add to my collection</p>
 
 ###
 
