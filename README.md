@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://whitezom.dev/_next/image?url=%2Fwhitezompfp.webp&w=256&q=75"  />
-</div>
+
 
 ###
 
