@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Taylor from the UK<br><br>- 🔭 I’m a student studying BSc (Honours) Computing and IT (Software) and working towards being a Embedded C++ Developer <br>- 📚 I'm currently learning C and Python <br>- ⚡ In my free time I deal hunt for new tech to add to my collection</p>
+<p align="left">I'm Taylor from the UK<br><br>- 🔭 I’m a student studying BSc (Honours) Computing and IT (Software) and working towards being a Embedded C Developer <br>- 📚 I'm currently learning C and Python <br>- ⚡ In my free time I deal hunt for new tech to add to my collection</p>
 
 ###
 
