@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Taylor, I live in The Netherlands <br><br>- 🔭 I’m a student studying BSc (Honours) CyberSecurity and working towards being a Developer <br>- 📚 I'm currently learning JavaScript <br>- ⚡ In my free time I deal hunt for new tech to add to my collection</p>
+<p align="left">I'm Taylor, I live in The Netherlands <br><br>- 🔭 I’m a student studying an Associates degree in Information Technology and working towards being a Security Researcher <br>- 📚 I'm currently learning C++ and planning to move onto Reverse Engineering <br>- ⚡ In my free time I deal hunt for new tech to add to my collection</p>
 
 ###
 
