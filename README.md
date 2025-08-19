@@ -14,19 +14,16 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=whitezom7.whitezom7&"  />
 </div>
 
-###
+---
 
-<h1 align="center">Hey There 👋</h1>
+## 👩‍💻 About Me
+- 🎓 Currently finishing an **Associate’s Degree in IT**  
+- 🎯 Working towards becoming a **DevOps / DevSecOps Engineer**  
+- 📚 Learning **C++**, **Python**, and exploring **automation, deployments & CI/CD**  
+- 🛠️ Passionate about **self-hosting, homelabs, and smart home projects**  
+- ⚡ In my free time, I **deal hunt for unique hardware** and experiment with new setups  
 
-###
-
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<p align="left">I'm Taylor, I live in The Netherlands <br><br>- 🔭 I’m a student studying an Associates degree in Information Technology and working towards being a Dev(Sec)Ops <br>- 📚 I'm currently learning C++ and Python with plans to learn more about automation and deployments. <br>- ⚡ In my free time I deal hunt for new tech to add to my collection</p>
-
-###
+---
 
 <h3 align="left">🔥   My Stats :</h3>
 
@@ -38,3 +35,12 @@
 </div>
 
 ###
+
+---
+
+## 🚀 Projects I’m Working On
+- 🖥️ **Self-hosted Homelab**: experimenting with Proxmox, VMs, and networking  
+- 🌐 **Personal Website**: built with Astro, soon deployed via GitHub Actions + Docker  
+- 🏡 **Smart Home Automation**: integrating IoT devices with Home Assistant  
+
+---
