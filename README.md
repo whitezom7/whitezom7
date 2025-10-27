@@ -17,9 +17,9 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Currently finishing an **Associate’s Degree in IT**  
-- 🎯 Working towards becoming a **DevOps / DevSecOps Engineer**  
-- 📚 Learning **C++**, **Python**, and exploring **automation, deployments & CI/CD**  
+- 🎓 Currently keeping up with the newest Technology  
+- 🎯 Working towards becoming a **IT / Embedded Engineer**  
+- 📚 Learning **C**, **Python**, and exploring **automation, deployments & CI/CD**  
 - 🛠️ Passionate about **self-hosting, homelabs, and smart home projects**  
 - ⚡ In my free time, I **deal hunt for unique hardware** and experiment with new setups  
 
