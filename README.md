@@ -19,7 +19,7 @@
 ## 👩‍💻 About Me
 - 🎓 Currently keeping up with the newest Technology  
 - 🎯 Working towards becoming a **IT / Embedded Engineer**  
-- 📚 Learning **C**, **Python**, and exploring **automation, deployments & CI/CD**  
+- 📚 Learning **C++**, **C#** and **Python**, exploring **automation, deployments & CI/CD**  
 - 🛠️ Passionate about **self-hosting, homelabs, and smart home projects**  
 - ⚡ In my free time, I **deal hunt for unique hardware** and experiment with new setups  
 
