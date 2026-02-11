@@ -18,29 +18,18 @@
 
 ## 👩‍💻 About Me
 - 🎓 Currently keeping up with the newest Technology  
-- 🎯 Working towards becoming a **IT / Embedded Engineer**  
-- 📚 Learning **C++**, **C#** and **Python**, exploring **automation, deployments & CI/CD**  
+- 🎯 Working towards becoming a **IT or Software Engineer**  
+- 📚 Learning **C**, **C#** and using **Lua** on the side.  
 - 🛠️ Passionate about **self-hosting, homelabs, and smart home projects**  
 - ⚡ In my free time, I **deal hunt for unique hardware** and experiment with new setups  
 
 ---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whitezom7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=whitezom7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
----
 
 ## 🚀 Projects I’m Working On
 - 🖥️ **Self-hosted Homelab**: experimenting with Proxmox, VMs, and networking  
-- 🌐 **Personal Website**: built with Astro, soon deployed via GitHub Actions + Docker  
-- 🏡 **Smart Home Automation**: integrating IoT devices with Home Assistant  
+- 🏡 **Smart Home Automation**: integrating IoT devices with Home Assistant
+-  <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/aad4a993-131d-4a75-8522-ad0efefcc11c" />
+   **FiveM Scripts**: for my new side hobby
 
 ---
