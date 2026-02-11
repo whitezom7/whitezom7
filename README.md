@@ -29,7 +29,6 @@
 ## 🚀 Projects I’m Working On
 - 🖥️ **Self-hosted Homelab**: experimenting with Proxmox, VMs, and networking  
 - 🏡 **Smart Home Automation**: integrating IoT devices with Home Assistant
--  <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/aad4a993-131d-4a75-8522-ad0efefcc11c" />
-   **FiveM Scripts**: for my new side hobby
+-  <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/aad4a993-131d-4a75-8522-ad0efefcc11c" />  **FiveM Scripts**: for my new side hobby
 
 ---
