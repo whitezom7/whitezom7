@@ -26,9 +26,13 @@
 ---
 
 
-## 🚀 Projects I’m Working On
-- 🖥️ **Self-hosted Homelab**: experimenting with Proxmox, VMs, and networking  
-- 🏡 **Smart Home Automation**: integrating IoT devices with Home Assistant
--  <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/aad4a993-131d-4a75-8522-ad0efefcc11c" />  **FiveM Scripts**: for my new side hobby
+## 🚀 Open Source Projects & Contributions
+
+I enjoy creating open-source tools and scripts for communities like FiveM, and I aim to share useful projects that anyone can use, modify, and learn from.
+	•	🖥️ **Self-hosted Homelab** – experimenting with Proxmox, VMs, networking, and automation
+	•	🏡 **Smart Home Automation** – integrating IoT devices with Home Assistant
+	•	🎮 **FiveM Scripts** – developing free, community-friendly scripts that anyone can use
+
+If you find my projects useful, feel free to ⭐ star them, contribute, or support development via [GitHub Sponsors] or [Ko-fi]!
 
 ---
