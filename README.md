@@ -29,9 +29,9 @@
 ## 🚀 Open Source Projects & Contributions
 
 I enjoy creating open-source tools and scripts for communities like FiveM, and I aim to share useful projects that anyone can use, modify, and learn from.
-	•	🖥️ **Self-hosted Homelab** – experimenting with Proxmox, VMs, networking, and automation
-	•	🏡 **Smart Home Automation** – integrating IoT devices with Home Assistant
-	•	🎮 **FiveM Scripts** – developing free, community-friendly scripts that anyone can use
+-	🖥️ **Self-hosted Homelab** – experimenting with Proxmox, VMs, networking, and automation
+-	🏡 **Smart Home Automation** – integrating IoT devices with Home Assistant
+-	🎮 **FiveM Scripts** – developing free, community-friendly scripts that anyone can use
 
 If you find my projects useful, feel free to ⭐ star them, contribute, or support development via [GitHub Sponsors] or [Ko-fi]!
 
