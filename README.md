@@ -17,7 +17,7 @@
 ---
 
 ### 🛠️ Professional Profile
-I am an aspiring **Software Engineer** transitionining from a strong technical foundation in **IT Infrastructure** and **Systems Administration**. I love writing clean, performant, and systems-level code, bridging the gap between low-level software development and robust infrastructure deployment. 
+I am an **Software Engineer** transitionining from a strong technical foundation in **IT Infrastructure** and **Systems Administration**. I love writing clean, performant, and systems-level code, bridging the gap between low-level software development and robust infrastructure deployment. 
 
 Currently deepening my expertise in **C** and **C#** to build high-performance tools, game integrations, and automation systems.
 
